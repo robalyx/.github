@@ -1,10 +1,14 @@
-<h1 align="center">robalyx</h1>
+<h1 align="center">
+  <picture>
+    <img width="800" alt="robalyx" src="../assets/robalyx_banner.gif">
+  </picture>
+</h1>
 <p align="center">
   From "rob-" (Roblox) and "alexo" (ἀλέξω, to protect and defend) - a dedicated OSS team creating modern technology to build a safer Roblox platform.
 </p>
 
 <p align="center">
-  We develop tools for platform security and content moderation, leveraging artificial intelligence to create safer online environments. Our solutions prioritize efficiency, scalability, and user privacy while maintaining high performance standards.
+  We develop tools for platform security and content moderation, leveraging artificial intelligence to create safer online environments. Our solutions prioritize efficiency and scalability while maintaining high performance standards.
 </p>
 
 ---
@@ -17,7 +21,7 @@
       <h1 align="center">
         <a href="https://github.com/robalyx/rotector">
           <picture>
-            <img width="800" alt="Rotector" src="../assets/images/rotector_banner.gif">
+            <img width="800" alt="Rotector" src="../assets/rotector_banner.gif">
           </picture>
         </a>
       </h1>
@@ -29,8 +33,28 @@
         <a href="https://github.com/robalyx/rotector/blob/main/LICENSE">
           <img src="https://img.shields.io/badge/-GPL%20v2-blue?style=flat-square" alt="GPL v2">
         </a>
-        <a href="https://github.com/robalyx/rotector">
-          <img src="https://img.shields.io/badge/-Alpha-red?style=flat-square" alt="Alpha">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Other Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/robalyx/rotten">
+        <img src="../assets/rotten_banner.gif" alt="Rotten Banner" width="300">
+      </a>
+      <p>A simple command-line tool that lets you check Roblox accounts against Rotector exports. Supports checking individual users, groups, or scanning entire friend lists to avoid association with flagged accounts.</p>
+      <p align="center">
+        <a href="https://go.dev/">
+          <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+        </a>
+        <a href="https://github.com/robalyx/rotten/blob/main/LICENSE">
+          <img src="https://img.shields.io/badge/-GPL%20v2-blue?style=flat-square" alt="GPL v2">
         </a>
       </p>
     </td>
