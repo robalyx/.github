@@ -45,9 +45,9 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/robalyx/rotten">
-        <img src="../assets/rotten_banner.gif" alt="Rotten Banner" width="300">
-      </a>
+      <h1 align="center">
+        <a href="https://github.com/robalyx/rotten">rotten</a>
+      </h1>
       <p>A simple command-line tool that lets you check Roblox accounts against Rotector exports. Supports checking individual users, groups, or scanning entire friend lists to avoid association with flagged accounts.</p>
       <p align="center">
         <a href="https://go.dev/">
@@ -55,6 +55,20 @@
         </a>
         <a href="https://github.com/robalyx/rotten/blob/main/LICENSE">
           <img src="https://img.shields.io/badge/-GPL%20v2-blue?style=flat-square" alt="GPL v2">
+        </a>
+      </p>
+    </td>
+    <td align="center">
+      <h1 align="center">
+        <a href="https://github.com/robalyx/roverse">roverse</a>
+      </h1>
+      <p>A secure and efficient Cloudflare Worker proxy for Roblox API endpoints. Provides additional security and rate limiting control when making requests.</p>
+      <p align="center">
+        <a href="https://go.dev/">
+          <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+        </a>
+        <a href="https://github.com/robalyx/roverse/blob/main/LICENSE">
+          <img src="https://img.shields.io/badge/-MIT-blue?style=flat-square" alt="MIT">
         </a>
       </p>
     </td>
