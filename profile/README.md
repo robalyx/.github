@@ -73,6 +73,23 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <h1 align="center">
+        <a href="https://github.com/robalyx/roscoe">roscoe</a>
+      </h1>
+      <p>A globally-distributed API for checking Roblox accounts against a Rotector database, powered by Cloudflare. Provides high-performance access to moderation data from edge locations worldwide.</p>
+      <p align="center">
+        <a href="https://go.dev/">
+          <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+        </a>
+        <a href="https://github.com/robalyx/roscoe/blob/main/LICENSE">
+          <img src="https://img.shields.io/badge/-MIT-blue?style=flat-square" alt="MIT">
+        </a>
+      </p>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 ---
