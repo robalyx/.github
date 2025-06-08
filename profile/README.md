@@ -21,11 +21,16 @@
       <h1 align="center">
         <a href="https://github.com/robalyx/rotector">
           <picture>
-            <img width="800" alt="Rotector" src="../assets/rotector_banner.gif">
+            <source media="(prefers-color-scheme: dark)" srcset="../assets/banner-dark.png">
+            <source media="(prefers-color-scheme: light)" srcset="../assets/banner-light.png">
+            <img width="500" alt="Rotector" src="../assets/banner-light.png">
           </picture>
         </a>
       </h1>
       <p>A powerful application designed to assist in identifying inappropriate user accounts on Roblox using AI and smart algorithms. Our goal is to help make the platform safer, especially for young users.</p>
+      <p align="center">
+        <a href="https://rotector.com"><strong>🌐 Visit Website</strong></a>
+      </p>
       <p align="center">
         <a href="https://go.dev/">
           <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
@@ -35,60 +40,6 @@
         </a>
       </p>
     </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Other Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <h1 align="center">
-        <a href="https://github.com/robalyx/rotten">rotten</a>
-      </h1>
-      <p>A simple command-line tool that lets you check Roblox accounts against Rotector exports. Supports checking individual users, groups, or scanning entire friend lists to avoid association with flagged accounts.</p>
-      <p align="center">
-        <a href="https://go.dev/">
-          <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-        </a>
-        <a href="https://github.com/robalyx/rotten/blob/main/LICENSE">
-          <img src="https://img.shields.io/badge/-GPL%20v2-blue?style=flat-square" alt="GPL v2">
-        </a>
-      </p>
-    </td>
-    <td align="center">
-      <h1 align="center">
-        <a href="https://github.com/robalyx/roverse">roverse</a>
-      </h1>
-      <p>A secure and efficient Cloudflare Worker proxy for Roblox API endpoints. Provides additional security and rate limiting control when making requests.</p>
-      <p align="center">
-        <a href="https://go.dev/">
-          <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-        </a>
-        <a href="https://github.com/robalyx/roverse/blob/main/LICENSE">
-          <img src="https://img.shields.io/badge/-MIT-blue?style=flat-square" alt="MIT">
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h1 align="center">
-        <a href="https://github.com/robalyx/roscoe">roscoe</a>
-      </h1>
-      <p>A globally-distributed API for checking Roblox accounts against a Rotector database, powered by Cloudflare. Provides high-performance access to moderation data from edge locations worldwide.</p>
-      <p align="center">
-        <a href="https://go.dev/">
-          <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-        </a>
-        <a href="https://github.com/robalyx/roscoe/blob/main/LICENSE">
-          <img src="https://img.shields.io/badge/-MIT-blue?style=flat-square" alt="MIT">
-        </a>
-      </p>
-    </td>
-    <td></td>
   </tr>
 </table>
 
